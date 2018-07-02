@@ -1,0 +1,416 @@
+[ {
+  "categories" : [ {
+    "main_id" : "35",
+    "main_title" : "Интернет-услуги"
+  } ],
+  "cpa" : "20%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=9412",
+  "host" : "lpgenerator.ru",
+  "id" : "gdeslon_9412",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Flpgenerator.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "lpgenerator.ru",
+  "rating" : "",
+  "site" : "http://lpgenerator.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "31",
+    "main_title" : "Туризм"
+  } ],
+  "cpa" : "1.04%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=11751",
+  "host" : "aviasales.ru",
+  "id" : "gdeslon_11751",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Faviasales.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "aviasales.ru",
+  "rating" : "",
+  "site" : "http://aviasales.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "25",
+    "main_title" : "Подарки",
+    "other_categories" : [ {
+      "id" : "9",
+      "title" : "Электронные гипермаркеты"
+    }, {
+      "id" : "31",
+      "title" : "Туризм"
+    }, {
+      "id" : "21",
+      "title" : "Товары для детей"
+    }, {
+      "id" : "19",
+      "title" : "Мебель"
+    }, {
+      "id" : "11",
+      "title" : "Косметика и здоровье"
+    }, {
+      "id" : "15",
+      "title" : "Строительные товары"
+    }, {
+      "id" : "5",
+      "title" : "Одежда и аксессуары"
+    }, {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "3",
+      "title" : "Телефоны и электроника"
+    }, {
+      "id" : "13",
+      "title" : "Спортивные товары"
+    }, {
+      "id" : "23",
+      "title" : "Книги"
+    }, {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307", "1590", "1906", "2", "1590", "307", "2" ],
+  "cpa" : "9.224%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=12027",
+  "host" : "ozon.ru",
+  "id" : "gdeslon_12027",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fozon.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "ozon.ru",
+  "rating" : "",
+  "site" : "http://ozon.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "13",
+    "main_title" : "Спортивные товары"
+  } ],
+  "cpa" : "4%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=20129",
+  "host" : "shop.fc-zenit.ru",
+  "id" : "gdeslon_20129",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fshop.fc-zenit.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "shop.fc-zenit.ru",
+  "rating" : "",
+  "site" : "http://www.shop.fc-zenit.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "9",
+    "main_title" : "Электронные гипермаркеты",
+    "other_categories" : [ {
+      "id" : "3",
+      "title" : "Телефоны и электроника"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307", "307" ],
+  "cpa" : "3.04%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=21101",
+  "host" : "foroffice.ru",
+  "id" : "gdeslon_21101",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fforoffice.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "foroffice.ru",
+  "rating" : "",
+  "site" : "http://foroffice.ru"
+}, {
+  "categories" : [ {
+    "main_id" : "39",
+    "main_title" : "Финансы"
+  } ],
+  "cpa" : "6080",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=21789",
+  "host" : "fxclub.org",
+  "id" : "gdeslon_21789",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Ffxclub.org.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "fxclub.org",
+  "rating" : "",
+  "site" : "http://www.fxclub.org/"
+}, {
+  "categories" : [ {
+    "main_id" : "41",
+    "main_title" : "Музыкальные инструменты",
+    "other_categories" : [ {
+      "id" : "3",
+      "title" : "Телефоны и электроника"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307" ],
+  "cpa" : "5.6%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=23707",
+  "host" : "audiomania.ru",
+  "id" : "gdeslon_23707",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Faudiomania.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "audiomania.ru",
+  "rating" : "",
+  "site" : "http://www.audiomania.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "25",
+    "main_title" : "Подарки",
+    "other_categories" : [ {
+      "id" : "45",
+      "title" : "Продукты, напитки"
+    }, {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "23",
+      "title" : "Книги"
+    } ]
+  } ],
+  "coupon_category_id" : [ "1590" ],
+  "cpa" : "4%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=27813",
+  "host" : "boffo.ru",
+  "id" : "gdeslon_27813",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fboffo.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "boffo.ru",
+  "rating" : "",
+  "site" : "http://www.boffo.ru"
+}, {
+  "categories" : [ {
+    "main_id" : "23",
+    "main_title" : "Книги"
+  } ],
+  "cpa" : "14.8%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=29789",
+  "host" : "piter.com",
+  "id" : "gdeslon_29789",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fpiter.com.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "piter.com",
+  "rating" : "3",
+  "site" : "http://www.piter.com/"
+}, {
+  "categories" : [ {
+    "main_id" : "35",
+    "main_title" : "Интернет-услуги"
+  } ],
+  "cpa" : "184",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=32409",
+  "host" : "printclick.ru",
+  "id" : "gdeslon_32409",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fprintclick.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "printclick.ru",
+  "rating" : "",
+  "site" : "http://www.printclick.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "13",
+    "main_title" : "Спортивные товары"
+  } ],
+  "cpa" : "6.152%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=36667",
+  "host" : "footballstore.ru",
+  "id" : "gdeslon_36667",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Ffootballstore.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "footballstore.ru",
+  "rating" : "",
+  "site" : "http://www.footballstore.ru"
+}, {
+  "categories" : [ {
+    "main_id" : "5",
+    "main_title" : "Одежда и аксессуары",
+    "other_categories" : [ {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "2", "2" ],
+  "cpa" : "553.84",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=40329",
+  "host" : "atlasformen.ru",
+  "id" : "gdeslon_40329",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fatlasformen.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "atlasformen.ru",
+  "rating" : "",
+  "site" : "http://www.atlasformen.ru/openvb.aspx"
+}, {
+  "categories" : [ {
+    "main_id" : "5",
+    "main_title" : "Одежда и аксессуары",
+    "other_categories" : [ {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "2", "2" ],
+  "cpa" : "9.6%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=42071",
+  "host" : "lamoda.ru",
+  "id" : "gdeslon_42071",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Flamoda.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "lamoda.ru",
+  "rating" : "",
+  "site" : "http://www.lamoda.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "9",
+    "main_title" : "Электронные гипермаркеты",
+    "other_categories" : [ {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "3",
+      "title" : "Телефоны и электроника"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307", "1590", "307" ],
+  "cpa" : "16%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=42255",
+  "host" : "ogo1.ru",
+  "id" : "gdeslon_42255",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fogo1.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "ogo1.ru",
+  "rating" : "",
+  "site" : "http://ogo1.ru"
+}, {
+  "categories" : [ {
+    "main_id" : "11",
+    "main_title" : "Косметика и здоровье"
+  } ],
+  "coupon_category_id" : [ "1906" ],
+  "cpa" : "240",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=46027",
+  "host" : "pudra.ru",
+  "id" : "gdeslon_46027",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fpudra.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "pudra.ru",
+  "rating" : "",
+  "site" : "http://pudra.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "21",
+    "main_title" : "Товары для детей",
+    "other_categories" : [ {
+      "id" : "5",
+      "title" : "Одежда и аксессуары"
+    }, {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "2", "1590", "2" ],
+  "cpa" : "18.456%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=50803",
+  "host" : "laredoute.ru",
+  "id" : "gdeslon_50803",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Flaredoute.ru.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "laredoute.ru",
+  "rating" : "",
+  "site" : "http://www.laredoute.ru/"
+}, {
+  "categories" : [ {
+    "main_id" : "3",
+    "main_title" : "Телефоны и электроника"
+  } ],
+  "coupon_category_id" : [ "307" ],
+  "cpa" : "9.2%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=56129",
+  "host" : "store77.net",
+  "id" : "gdeslon_56129",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fstore77.net.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "store77.net",
+  "rating" : "",
+  "site" : "https://store77.net/"
+}, {
+  "categories" : [ {
+    "main_id" : "25",
+    "main_title" : "Подарки",
+    "other_categories" : [ {
+      "id" : "9",
+      "title" : "Электронные гипермаркеты"
+    }, {
+      "id" : "21",
+      "title" : "Товары для детей"
+    }, {
+      "id" : "5",
+      "title" : "Одежда и аксессуары"
+    }, {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307", "2", "1590", "2" ],
+  "cpa" : "13.6%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=59531",
+  "host" : "sammydress.com",
+  "id" : "gdeslon_59531",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fsammydress.com.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "sammydress.com",
+  "rating" : "",
+  "site" : "http://www.sammydress.com/"
+}, {
+  "categories" : [ {
+    "main_id" : "9",
+    "main_title" : "Электронные гипермаркеты"
+  } ],
+  "coupon_category_id" : [ "307" ],
+  "cpa" : "4.8%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=60369",
+  "host" : "miniinthebox.com",
+  "id" : "gdeslon_60369",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fminiinthebox.com.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "miniinthebox.com",
+  "rating" : "",
+  "site" : "http://miniinthebox.com/"
+}, {
+  "categories" : [ {
+    "main_id" : "25",
+    "main_title" : "Подарки",
+    "other_categories" : [ {
+      "id" : "9",
+      "title" : "Электронные гипермаркеты"
+    }, {
+      "id" : "21",
+      "title" : "Товары для детей"
+    }, {
+      "id" : "43",
+      "title" : "Авто"
+    }, {
+      "id" : "11",
+      "title" : "Косметика и здоровье"
+    }, {
+      "id" : "5",
+      "title" : "Одежда и аксессуары"
+    }, {
+      "id" : "17",
+      "title" : "Товары для дома"
+    }, {
+      "id" : "3",
+      "title" : "Телефоны и электроника"
+    }, {
+      "id" : "13",
+      "title" : "Спортивные товары"
+    }, {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "307", "1906", "2", "1590", "307", "2" ],
+  "cpa" : "8%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=60370",
+  "host" : "lightinthebox.com",
+  "id" : "gdeslon_60370",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Flightinthebox.com.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "lightinthebox.com",
+  "rating" : "",
+  "site" : "http://lightinthebox.com/"
+}, {
+  "categories" : [ {
+    "main_id" : "5",
+    "main_title" : "Одежда и аксессуары",
+    "other_categories" : [ {
+      "id" : "7",
+      "title" : "Обувь"
+    } ]
+  } ],
+  "coupon_category_id" : [ "2", "2" ],
+  "cpa" : "12%",
+  "deep_link" : "https://sf.gdeslon.ru/cf/0a133a7bb826d0acecd01c639ab6377ccc15e248?mid=60371",
+  "host" : "ostin.com",
+  "id" : "gdeslon_60371",
+  "logo" : "https://firebasestorage.googleapis.com/v0/b/qpon-live.appspot.com/o/offers%2Fostin.com.png?alt=media&token=c624af30-01a7-4176-8d08-628322c55fe3",
+  "name" : "ostin.com",
+  "rating" : "",
+  "site" : "http://ostin.com/"
+}]
