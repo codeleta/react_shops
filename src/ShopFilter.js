@@ -3,7 +3,7 @@ import React from "react";
 import ShopFilterMenu from "./ShopFilterMenu";
 import ShopFilterResults from "./ShopFilterResults";
 
-import shops from './ShopFilterData.json'
+import shops from './_ShopFilterData'
 import './ShopFilter.css';
 
 export default class ShopFilter extends React.Component {
