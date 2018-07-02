@@ -1,5 +1,8 @@
 import React from "react";
+
 import Shop from "./Shop";
+
+import './ShopFilterResults.css'
 
 export default class ShopFilterResults extends React.Component {
   constructor() {

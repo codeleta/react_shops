@@ -9,6 +9,9 @@
 # testing
 /coverage
 
+# Compiled files
+*.css
+
 # production
 /build
 

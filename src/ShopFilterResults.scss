@@ -1,0 +1,12 @@
+.items {
+  width: 650px;
+  margin: 5px;
+  display: inline-block;
+  @media screen and (max-width: 940px) {
+    width: 420px;
+  }
+  @media screen and (max-width: 720px) {
+    width: 220px;
+  }
+}
+

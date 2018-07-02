@@ -1,0 +1,34 @@
+.menu {
+  vertical-align: top;
+  display: inline-block;
+  margin: 10px;
+}
+
+.menu-item {
+  background-color: #FEFEFE;
+  width: 200px;
+  height: auto;
+  margin: 10px;
+  border-radius: 3px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.06);
+  padding-bottom: 10px;
+}
+
+#categoryInput {
+  width: 90%;
+}
+
+.input-range {
+  width: 90%;
+  margin: 15px auto 10px;
+}
+
+.header-item {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #3C3D41;
+  font-size: 11px;
+  padding: 15px 15px;
+  border-bottom: 1.5px solid #EAEAEA;
+  margin-bottom: 10px;
+}
