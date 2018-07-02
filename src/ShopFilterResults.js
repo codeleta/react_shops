@@ -1,16 +1,13 @@
+// @flow
 import React from "react";
 
 import Shop from "./Shop";
 
 import './ShopFilterResults.css'
+import type {ShopFilterResultsProps, ShopType} from "./typings";
 
-export default class ShopFilterResults extends React.Component {
-  constructor() {
-   super();
-   this.filterShop = this.filterShop.bind(this);
-  }
-
-  filterShop(shop) {
+export default class ShopFilterResults extends React.Component<ShopFilterResultsProps> {
+  filterShop = (shop: ShopType) => {
     if (this.props.search_query && (shop.name.indexOf(this.props.search_query) + 1 === 0)) {
       return false;
     }
@@ -36,7 +33,7 @@ export default class ShopFilterResults extends React.Component {
       }
     }
     return <Shop key={shop.id} shop={shop}/>
-  }
+  };
 
   render() {
     let shops = this.props.shops.map(this.filterShop);

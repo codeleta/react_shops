@@ -1,8 +1,10 @@
+// @flow
 import React from 'react';
 
 import './Shop.css'
+import type { ShopProps } from "./typings";
 
-export default class Shop extends React.Component {
+export default class Shop extends React.Component<ShopProps> {
   render() {
     return (
       <a className="item" href={this.props.shop.deep_link}>

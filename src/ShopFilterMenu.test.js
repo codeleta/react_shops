@@ -7,7 +7,7 @@ it('renders without crashing', () => {
   let cpa = {min: 0, max: 90};
   ReactDOM.render(<ShopFilterMenu
     search_query=''
-    categories=''
+    categories={[]}
     category=''
     cpa={cpa}
     rating=''

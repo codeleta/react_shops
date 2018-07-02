@@ -1,10 +1,13 @@
+// @flow
 import React from 'react';
 import InputRange from 'react-input-range';
 
 import 'react-input-range/lib/css/index.css'
 import './ShopFilterMenu.css'
+import type {ShopFilterMenuProps} from "./typings";
 
-export default class ShopFilterMenu extends React.Component {
+export default class ShopFilterMenu extends React.Component<ShopFilterMenuProps> {
+  cpa_range: InputRange;
 
   render() {
     this.cpa_range = <InputRange
@@ -17,10 +20,11 @@ export default class ShopFilterMenu extends React.Component {
       onChange={value => this.props.onFormInput('cpa', value)}
     />;
 
-    let category_options = [<option key="empty" value="">-----</option>];
-    for (let key in this.props.categories) {
-      category_options.push(<option key={key} value={key}>{this.props.categories[key]}</option>)
-    }
+    let category_options = this.props.categories.map((category) => {
+      return <option key={category.id} value={category.id}>{category.title}</option>
+    });
+    category_options.splice(0, 0, <option key="empty" value="">-----</option>);
+
     let filter_components = [
       {
         title: 'Search',
